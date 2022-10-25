@@ -15,6 +15,7 @@ def divide_by_zero():
     divide = 1/1
 
 def undefined_var():
+    var = 3
     if var == 6:
         print("var equals 6")
 

@@ -12,9 +12,10 @@ sentry_sdk.init(
 error_options = [1, 2, 3]
 
 def divide_by_zero():
-    divide = 1/0
+    divide = 1/1
 
 def undefined_var():
+    var = 3
     if var == 6:
         print("var equals 6")
 

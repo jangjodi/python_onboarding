@@ -9,6 +9,7 @@ sentry_sdk.init(
     traces_sample_rate=1.0
 )
 
+## Test!
 error_options = [1, 2, 3]
 
 def divide_by_zero():

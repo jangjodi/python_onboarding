@@ -1,5 +1,7 @@
 import sentry_sdk
 
+# Added something
+
 sentry_sdk.init(
     dsn="https://dab3fb6fde814a4e98500509f7ef1c9a@o4504016362930176.ingest.sentry.io/4504016378331136",
 
